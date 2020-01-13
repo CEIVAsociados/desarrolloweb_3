@@ -1,0 +1,41 @@
+.borde{
+	border: 1px solid black;
+}
+
+body{
+	margin:0;
+	padding: 0;
+}
+
+.fondo{
+	background: url("../image/musica-fondo.jpg");
+ 	width: 100%;
+  	height: 80px;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center center;
+  	opacity: 0.9;
+}
+
+.logo{
+	height: 80px;
+}
+
+.redes-sociales{
+	position: relative;
+	top: 10px;
+	height: 60px;
+	width: 200px;
+}
+.img-logo{
+	width: 200px;
+}
+
+.texto{
+	color: #FFFFFF;
+	font-family: Arial;
+}
+
+.img-social{
+	width: 30px;
+}
