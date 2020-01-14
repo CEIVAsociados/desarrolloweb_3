@@ -25,7 +25,7 @@ body{
 	position: relative;
 	top: 10px;
 	height: 60px;
-	width: 200px;
+	width: 180px;
 }
 .img-logo{
 	width: 200px;
@@ -38,4 +38,8 @@ body{
 
 .img-social{
 	width: 30px;
+}
+
+.navbar{
+	top: 80px;
 }
