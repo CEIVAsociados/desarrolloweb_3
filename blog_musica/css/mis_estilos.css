@@ -40,6 +40,18 @@ body{
 	width: 30px;
 }
 
-.navbar{
-	top: 80px;
+.mt-10{
+	margin-top: 140px;
+}
+
+.ancho{
+	width: 99%; 
+}
+
+.foto{
+	width: 100%;
+}
+
+.icon{
+	width: 23px;
 }
