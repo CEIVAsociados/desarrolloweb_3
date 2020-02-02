@@ -1,0 +1,64 @@
+.borde{
+	border: 1px solid #000;
+}
+.contenido{
+	width: 100%;
+ 	height: 100% !important;
+}
+body{
+	background-image: url("../image/fondo-viaje.jpg");
+  	width: 100%;
+  	background-repeat: repeat;
+  	background-size: 100%;
+  	background-position: center center;
+}
+.logo{
+	width: 135px;
+}
+.container-logo{
+	height: 75px;
+}
+.margin-1{
+	margin: 5px;
+}
+.margin-bottom-1{
+	margin-bottom: 10px;
+}
+.margin-bottom-3{
+	margin-bottom: 40px;
+}
+.margin-top-2{
+	margin-top: 20px;
+}
+.margin-left-2{
+	margin-left: 20px;
+}
+.material-icons{
+	width: 5px;
+	font-size: 20px !important;
+}
+li > a > span{
+	margin-left: 5px;
+}
+.redes-sociales{
+	margin-left: 0px;
+	width: 60px;
+	height: 300px;
+}
+.container-images{
+	width: 85%;
+	height: auto;
+}
+.img-galeria-9{
+	width: 90%;
+}
+.img-galeria-10{
+	width: 100%;
+}
+.height-8{
+	height: 80%;
+}
+
+.width-50{
+	width: 50%;
+}
